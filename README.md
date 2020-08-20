@@ -4,6 +4,3 @@ This is the akka http quickstart from https://github.com/akka/akka-http-quicksta
 
 It shows how to bootstrap Akka HTTP from a user guardian.
 
-
-
-
